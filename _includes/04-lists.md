@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+-[x] Music
+-[x] Piano
+-[x] Bouldering
+-[x] Dancing
+-[x] Skiing
